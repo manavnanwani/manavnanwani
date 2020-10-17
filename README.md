@@ -12,7 +12,7 @@ My favourite programing language is JavaScript
 - 🌱 I’m currently learning Django and ReactJS
 - 👯 I’m looking to collaborate on Frontend Development
 - 🤔 I’m looking for help with Backend Stuff
-- 💬 Ask me about HTML,Css,Js
+- 💬 Ask me about HTML,CSS, Js
 - 📫 How to reach me: manav.nanwani@gmail.com
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
