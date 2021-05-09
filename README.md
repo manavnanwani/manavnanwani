@@ -2,9 +2,9 @@
 <h3 align="center">An Enthusiastic Developer.</h3>
 <!-- <p align="left"> <img src="" alt="manav nanwani" /> </p> -->
 
-- 🔭 I’m currently working improving my ReactJS as well as competitive programming skills.
+- 🔭 I’m currently working on improving my competitive programming skills.
 
-- 🌱 I’m currently learning Django.
+- 🌱 I’m currently learning React Native.
 
 - 👨‍💻 All of my projects are available at [https://github.com/manavnanwani](https://github.com/manavnanwani)
 
