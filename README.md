@@ -1,6 +1,8 @@
-<h1 align="center">Hey there!👋, I am Manav Nanwani.</h1>
-<h3 align="center">An Enthusiastic Developer.</h3>
-<!-- <p align="left"> <img src="" alt="manav nanwani" /> </p> -->
+<h1 align="center">Hey, I am Manav Nanwani <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"/> </h1>
+<h3 align="center"></h3>
+
+<!-- ![](https://komarev.com/ghpvc/?username=manavnanwani) -->
+
 
 - 🔭 I’m currently working on improving my competitive programming skills.
 
@@ -8,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/manavnanwani](https://github.com/manavnanwani)
 
-- 💬 Ask me about **HTML, CSS, JS, Python, ReactJS**
+- 💬 Ask me about **HTML, CSS, JS, ReactJS, Python**
 
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 
