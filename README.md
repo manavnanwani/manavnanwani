@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on improving my competitive programming skills.
 
-- 🌱 I’m currently learning React Native.
+- 🌱 I’m currently learning Blockchain Development.
 
 - 👨‍💻 All of my projects are available at [https://github.com/manavnanwani](https://github.com/manavnanwani)
 
