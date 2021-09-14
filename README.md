@@ -16,6 +16,22 @@
 
 - 📫 Reach me at: **manav.nanwani@gmail.com**
 
+**Frameworks and Stack**
+
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
+![Java](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
+
 ### Connect with me:
 
 [<img align="left" alt="manav nanwani | LinkedIn" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />](https://www.linkedin.com/in/manav-nanwani-24a9101b2/)
