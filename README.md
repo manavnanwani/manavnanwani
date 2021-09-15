@@ -1,6 +1,12 @@
 <h1 align="center">Hey, I am Manav Nanwani <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"/> </h1>
 <h3 align="center"></h3>
 
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/manav-nanwani-24a9101b2/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:manav.nanwani@gmail.com?subject=Hello%20Manav,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/manav_nanwani"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
 <!-- ![](https://komarev.com/ghpvc/?username=manavnanwani) -->
 
 
@@ -31,13 +37,6 @@
 ![Java](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java)
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
-
-### Connect with me:
-
-[<img align="left" alt="manav nanwani | LinkedIn" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />](https://www.linkedin.com/in/manav-nanwani-24a9101b2/)
-[<img align="left" alt="manav nanwani | Instagram" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />](https://www.instagram.com/manav_nanwani_/)
-[<img align="left" alt="manav nanwani| Gmail" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" />](mailto:manav.nanwani@gmail.com)
-<br/>
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=manavnanwani&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919"></p>
