@@ -22,6 +22,7 @@
 
 - 📫 Reach me at: **manav.nanwani@gmail.com**
 
+
 **Frameworks and Stack**
 
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
@@ -38,8 +39,10 @@
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
 
+<hr />
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=manavnanwani&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919"></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manavnanwani&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
 
+<hr />
