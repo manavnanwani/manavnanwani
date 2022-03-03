@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS, ReactJS, Python**
 
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🥅 2022 Goals: Contribute more to Open Source projects.
 
 - 📫 Reach me at: **manav.nanwani@gmail.com**
 
@@ -40,9 +40,13 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
 
 <hr />
-
+<!-- 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=manavnanwani&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919"></p>
+ -->
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manavnanwani&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
+
+<p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manavnanwani&show_icons=true&count_private=true&theme=react" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manavnanwani&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=20232a">
+
 
 <hr />
