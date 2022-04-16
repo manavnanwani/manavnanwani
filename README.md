@@ -26,6 +26,7 @@
 **Frameworks and Stack**
 
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+<!-- ![VueJS](https://img.shields.io/badge/-VueJS-black?style=for-the-badge&logo=vuejs) -->
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
@@ -45,8 +46,14 @@
  -->
 
 
-<p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manavnanwani&show_icons=true&count_private=true&theme=react" />
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manavnanwani&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=20232a">
+<p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manavnanwani&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></p>
 
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manavnanwani&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=20232a"> -->
 
-<hr />
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=manavnanwani&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="manavnanwani" /> </p>
+
+<p align="center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=manavnanwani&&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="manavnanwani" />
+</p>
+
+<!-- <hr /> -->
