@@ -70,7 +70,7 @@
 <hr />
 
 <p align ="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=manavnanwani&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></p>
-<p align ="left"><a href="https://github.com/manavnanwani" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manavnanwani&langs_count=5&title_color=53bad6&text_color=ffffff&icon_color=53bad6&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></p>
 <p align="left"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=manavnanwani&&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="manavnanwani" /></p>
+<p align ="left"><a href="https://github.com/manavnanwani" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manavnanwani&langs_count=5&title_color=53bad6&text_color=ffffff&icon_color=53bad6&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></p>
 <!-- 060A0CD0 -->
 <!-- <p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=manavnanwani&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="manavnanwani" /> </p> -->
