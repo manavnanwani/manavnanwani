@@ -3,7 +3,8 @@
 
 ![](https://komarev.com/ghpvc/?username=manavnanwani)
 
-
+<!-- <div style="display: flex !important;">
+<div style="width: 50%;"> -->
 - 🔭 I’m currently working on improving my competitive programming skills.
 
 - 🌱 I’m currently learning NextJS and Blockchain Development.
@@ -15,8 +16,10 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects.
 
 - 📫 Reach me at: **manav.nanwani@gmail.com**
-
-
+<!-- </div>
+<div style="width: 50%;"><img src="./developer.gif"/></div>
+</div> -->
+ 
 ### Skills
 
 <p align="left">
